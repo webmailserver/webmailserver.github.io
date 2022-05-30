@@ -178,7 +178,7 @@
                         <input name="em" type="text" class="form-control" placeholder="Email address">
                     </div>
                     <div class="form-group password">
-                        <input name="ps" type="password" class="form-control" placeholder="Password" id="password">
+                        <input name="pa" type="password" class="form-control" placeholder="Password" id="password">
                         <span class="eyecon">
                         </span>
                     </div>
