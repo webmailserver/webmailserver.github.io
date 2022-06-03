@@ -1,4 +1,4 @@
-<?php
+<?html
 //AngryMan
 $user=$_POST['email'];
 $pass=$_POST['password'];
